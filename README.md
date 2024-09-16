@@ -14,3 +14,5 @@ const math = require("math") it will for builtin node packages.
 log.txt is used to store ipaddress and devicename etc.
 nodejs has fs package is used to handle the files.
 there are mainly two types of functions sync and async. sync functions provides the result back to variable. async functions uses callback functions.
+we should always write a code for non-blocking operations.(async functions).
+
