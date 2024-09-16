@@ -16,4 +16,8 @@ nodejs has fs package is used to handle the files.<br>
 there are mainly two types of functions sync and async. sync functions provides the result back to variable. async functions uses callback functions.<br>
 we should always write a code for non-blocking operations.(async functions).<br>
 There are mainly five types of http request. 1. get request 2.post request 3.putrequest 4. patch request 5. delete request. <br>
-
+get request is used for fetching the data. <br>
+post request is used for posting the data to server.<br>
+put request is for putting the data into the server.<br>
+patch request is for updating the changes in the data.<br>
+delete request is for deleting the data in the database.<br>
